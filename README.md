@@ -1,9 +1,3 @@
-# PUBGM-ESP-AIMBOT-VB
-PUBGM-ESP-AIMBOT-VB
-
--- --
-
-![image](https://user-images.githubusercontent.com/74623428/209476434-b3a8c0c8-73c6-4fea-9a30-39812c6b708a.png)
 # PUBGM-ESP-AIMBOT
 Pubg Mobile 0.17.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasses process read/write restrictions.
 
@@ -27,6 +21,3 @@ Features:
 - https://github.com/huddhudd/crappy-esp
 - https://www.unknowncheats.me/forum/pubg-mobile/354946-source-code-esp-pubg-mobile-0-16-5-safu_iraq.html
 - https://www.unknowncheats.me/forum/pubg-mobile/379241-esp-source-pubgm-v0-17-0-gameloop.html
--- --
-Orginal SRC In C#
-- https://github.com/TusbolGame/PUBGM-ESP-AIMBOT
